@@ -1,2 +1,3 @@
 # my-first-project
-My first project to learn Git
+
+This project is used to to learn Git together with GitHub.
